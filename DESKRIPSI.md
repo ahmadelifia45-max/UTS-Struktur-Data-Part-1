@@ -23,6 +23,13 @@ Untuk yang pertama, saya akan mengurutkan data tersebut dengan menggunakan tekni
 </br>
 
 ### Teknik Insertion Sort
-Kedua adalah teknik insertion sort. Untuk codingannya adalah sebagai berikut [Insertion Sort](
+Kedua adalah teknik insertion sort. Untuk codingannya adalah sebagai berikut [Insertion Sort](https://github.com/ahmadelifia45-max/UTS-Struktur-Data-Part-1/blob/12175d212dcac84019f44975322a82df432c6e7b/insertionsort.java) . Lalu output yang dihasilkan dari inputan tadi ialah sebagai berikut
+<img width="409" height="371" alt="Screenshot 2026-04-15 215428" src="https://github.com/user-attachments/assets/fc61ae9c-24b7-435e-97e8-496344e10089" />
+</br>
+</br>
+
+### Teknik Selection Sort
+Terakhir yaitu menggunakan teknik selection sort. Untuk codingannya sebagai berikut [Selection Sort](
+
 
 
